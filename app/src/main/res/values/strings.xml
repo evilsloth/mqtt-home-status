@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MQTT Home Status</string>
+    <string name="enabled">Enabled</string>
+    <string name="ssid">SSID</string>
+    <string name="wifi_password">Wi-Fi Password</string>
+    <string name="mqtt_broker_url">MQTT Broker URL</string>
+    <string name="mqtt_broker_password">MQTT Broker password</string>
+    <string name="mqtt_broker_username">MQTT Broker username</string>
+    <string name="mqtt_topic">MQTT Topic</string>
+    <string name="mqtt_client_id">MQTT Client ID</string>
+    <string name="save">Save</string>
+    <string name="settings_saved_message">Settings saved successfully!</string>
+</resources>
